@@ -1,0 +1,56 @@
+.cabeza {
+    background-color: black;
+    height: 80px;
+}
+
+.logo {
+    float: left;
+    padding: 10px;
+}
+
+.menu {
+    float: right;
+    margin: 20px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 45px;
+}
+
+.banner {
+    background-image: url(../img/divineintervention.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+}
+
+.banner h2 {
+    text-align: right;
+    padding: 200px 300px;
+    font-size: 40px;
+}
+
+.parrafo {
+    text-align: center;
+}
+
+.fotoGrupo {
+    display: block;
+    margin: auto;
+    width: 600px; 
+    height: 500px;
+}
+
+footer {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
